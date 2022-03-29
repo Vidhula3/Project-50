@@ -17,11 +17,9 @@ body {
   one beside the other equally.   */
 
   display: flex;
-  flex-wrap: wrap;
-  font-size: 12px;
   font-family: sans-serif;
-  justify-content:space-between;
-  gap: 3px;
+  justify-content:space-evenly;
+  
 }
 
 .grid img {
