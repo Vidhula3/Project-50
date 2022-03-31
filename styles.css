@@ -17,10 +17,10 @@ body {
   one beside the other equally.   */
 
   display: flex;
+  flex-wrap: wrap;
   font-family: sans-serif;
   justify-content:space-evenly;
-  
-}
+  }
 
 .grid img {
   border: 2px solid black;
